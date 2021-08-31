@@ -1,13 +1,12 @@
 # System-Automation
-Project Created using python and jypyter notebook ide
-
-To execute: 
-Install Jupyter using ANACONDA:\
+Sistema de Automação utilizando python e Jupyter notebook
+Para executar:
+Instalar Jupyter usando ANACONDA:\
 https://www.anaconda.com/products/individual\
 
-Download this file Automation Code\
-Run Jupyter\
-Look for the download directory\
-Open the file\
-Run all Rows\
+Baixe este arquivo Code Automation.pynb \
+Execute o Jupyter \
+Procure o diretório de download \
+Abra o arquivo \
+Executar todas as linhas \
 :D
