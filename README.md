@@ -4,7 +4,7 @@ Para executar:
 Instalar Jupyter usando ANACONDA:\
 https://www.anaconda.com/products/individual\
 
-Baixe este arquivo Code Automation.pynb \
+Baixe este arquivo Automation Code.ipynb \
 Execute o Jupyter \
 Procure o diretório de download \
 Abra o arquivo \
