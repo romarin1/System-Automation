@@ -1,5 +1,5 @@
 # System-Automation
-Sistema de Automação utilizando python e Jupyter notebook
+Sistema de Automação utilizando python e Jupyter notebook \
 Para executar:
 Instalar Jupyter usando ANACONDA:\
 https://www.anaconda.com/products/individual\
