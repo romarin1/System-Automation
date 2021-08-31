@@ -7,6 +7,6 @@ https://www.anaconda.com/products/individual\
 Baixe este arquivo Automation Code.ipynb \
 Execute o Jupyter \
 Procure o diretório de download \
-Abra o arquivo \
-Executar todas as linhas \
+Abra o arquivo dentro do jupyter \
+Clique no comando Run All Rows \
 :D
